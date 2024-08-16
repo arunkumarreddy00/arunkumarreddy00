@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunkumarreddy00
 - 👀 I’m interested in python,c,java
 - 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on some small bussiness
 - 📫 How to reach me githhub or instagram
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: program is very difficult
